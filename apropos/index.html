@@ -265,9 +265,9 @@
         </div>
         <div class="dorik-container-jfv5ds0n">
           <div class="dorik-wrapper dorik-heading-6k0rzri3-wrapper">
-            <h3 class="dorik-heading dorik-heading-6k0rzri3">
-              <span>A PROPOS</span>
-            </h3>
+            <h1 class="dorik-heading dorik-heading-6k0rzri3">
+              <span>A PROPOS </span>
+            </h1>
           </div>
         </div>
       </div>
@@ -536,89 +536,6 @@
                 </ul>
               </div>
             </div>
-            <!-- <div class="col-lg-1/2">
-              <div class="column-inner dorik-column-54716uad 1/2">
-                <form id="kbf93mrq" class="dorik-contactForm-kbf93mrq">
-                  <input
-                    type="hidden"
-                    name="_t"
-                    value="d2VzbWFndWhsLm9mZmljaWVsQGdtYWlsLmNvbQ=="
-                  /><input type="hidden" name="_sub" value="Message site web" />
-                  <div class="fields-wrapper">
-                    <div class="form-group">
-                      <input
-                        type="text"
-                        name="name"
-                        class="form-control"
-                        placeholder="Nom Prénom"
-                      />
-                    </div>
-                    <div class="form-group">
-                      <input
-                        type="email"
-                        name="email"
-                        required=""
-                        class="form-control"
-                        placeholder="Email"
-                      />
-                    </div>
-                    <div class="form-group">
-                      <input
-                        type="text"
-                        name="subject"
-                        class="form-control"
-                        placeholder="Objet"
-                      />
-                    </div>
-                    <div class="form-group">
-                      <textarea
-                        name="message"
-                        class="form-control"
-                        rows="4"
-                        placeholder="Ecrivez votre message..."
-                      ></textarea>
-                    </div>
-                    <div style="position: absolute; opacity: 0; z-index: -999">
-                      <label for="confirm_kbf93mrq"
-                        ><input
-                          type="text"
-                          autocomplete="off"
-                          id="confirm_kbf93mrq"
-                          name="confirm_kbf93mrq"
-                          placeholder="Enter your confirm_kbf93mrq"
-                      /></label>
-                    </div>
-                    <div class="form-group form-button">
-                      <button type="submit">
-                        Envoyer<svg
-                          aria-hidden="true"
-                          focusable="false"
-                          data-prefix="fas"
-                          data-icon="spinner"
-                          class="
-                            svg-inline--fa
-                            fa-spinner fa-fw
-                            icon
-                            spinner
-                            fa-spin
-                          "
-                          role="img"
-                          xmlns="http://www.w3.org/2000/svg"
-                          viewBox="0 0 512 512"
-                          style="display: none; margin-left: 5px"
-                          data-testid="icon-test"
-                        >
-                          <path
-                            fill="currentColor"
-                            d="M304 48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zm0 416a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM48 304a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm464-48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM142.9 437A48 48 0 1 0 75 369.1 48 48 0 1 0 142.9 437zm0-294.2A48 48 0 1 0 75 75a48 48 0 1 0 67.9 67.9zM369.1 437A48 48 0 1 0 437 369.1 48 48 0 1 0 369.1 437z"
-                          ></path>
-                        </svg>
-                      </button>
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div> -->
           </div>
         </div>
       </div>
@@ -898,69 +815,6 @@
             }, 350);
           }
         })(navbar);
-      })();
-      (function () {
-        var elem = $("#kbf93mrq");
-        function triggerSpinner(el, status) {
-          el.find(".spinner").css("display", status ? "inline-block" : "none");
-        }
-        (function injectUniqId(elem) {
-          const uniqId = Math.random().toString(36).substring(2, 8);
-          var input = document.createElement("input");
-          input.type = "hidden";
-          input.value = uniqId;
-          input.name = "_uid";
-          elem.append(input);
-        })(elem);
-        $(elem).on("submit", function (e) {
-          e.preventDefault();
-          function verifyLegitimateUser() {
-            const honeyPotIdentifier = `confirm_kbf93mrq`;
-            const honeyPotField = document.querySelector(
-              `input[id="${honeyPotIdentifier}"]`
-            );
-            return !honeyPotField?.value;
-          }
-
-          const isLegitimateUser = verifyLegitimateUser();
-          if (!isLegitimateUser) return;
-
-          var that = this;
-          triggerSpinner(elem, true);
-          $(that).find(".success-message").remove();
-          $(that).find(".error-message").remove();
-
-          const data = $(this).serialize().replace("&confirm_kbf93mrq=", "");
-
-          $.ajax({
-            data,
-            url: "/v2/sites/action/contact",
-            method: "POST",
-            success: function (data) {
-              var msgClass =
-                data.success === true ? "success-message" : "error-message";
-              var message =
-                data.success === true
-                  ? "Thank you for your email :-)"
-                  : data.message;
-              var $div = $("<div>", {
-                class: msgClass,
-                html: message,
-              });
-              $(that).append($div);
-              triggerSpinner(elem, false);
-              that.reset();
-            },
-            error: function (error) {
-              var $div = $("<div>", {
-                class: "error-message",
-                html: error.message || "Something went wrong! Check the fields",
-              });
-              $(that).append($div);
-              triggerSpinner(elem, false);
-            },
-          });
-        });
       })();
     </script>
   </body>
