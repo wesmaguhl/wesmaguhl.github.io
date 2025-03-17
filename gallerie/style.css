@@ -3035,6 +3035,13 @@ background-color: #000000;
 
         }
     
+            }@media screen and (max-width: 767px) {
+                .symbol--cdozth7e {
+              padding-top: 0px;
+  padding-bottom: 60px;
+
+        }
+    
             }
  
 
@@ -3238,75 +3245,6 @@ height:32px;width:32px;
 
 
 
-/*Column*/
-.dorik-column-54716uad {
-              padding-top: 15px;
-  padding-bottom: 15px;
-
-        }
-    .dorik-column-54716uad {
-        
-    }.dorik-column-54716uad.linked-column{cursor: pointer}
-
-
-
-
-/*Contact Form*/
-
-        .dorik-contactForm-kbf93mrq .form-button {
-              text-align: center; 
-
-        }
-
-        .dorik-contactForm-kbf93mrq .form-control {
-            width: 100%;
-            color: #171A21;
-  font-size: 14px; 
-  min-height: 50px; 
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border: 2px solid var(--color-7); 
-  border-radius: 0px 0px 0px 0px; 
-background-color: #FFFFFF;
-
-            margin-bottom: 15px;
-        }
-
-        .dorik-contactForm-kbf93mrq label {
-            display: inline-block;
-            color: var(--color-5);
-  font-size: 16px; 
-  padding-bottom: 10px;
-
-        }
-
-        
-            .dorik-contactForm-kbf93mrq button {
-                color: #FFFFFF;
-  height: 50px; 
-  font-size: 18px; 
-  padding-left: 30px;
-  padding-right: 30px;
-  border: 0px solid ; 
-  border-radius: 0px 0px 0px 0px; 
-background-color: var(--color-7);
-  width: 100%; 
-
-            }
-            .dorik-contactForm-kbf93mrq button:hover {
-                background-color: var(--color-6);
-
-            }
-            
-        
-    
-
-
-
-
-
 /*Pied page wesmaguhl*/
 .symbol--jweu7gde {
               padding-top: 60px;
@@ -3317,6 +3255,13 @@ background-color: #000000;
     @media screen and (max-width: 1023px) {
                 .symbol--jweu7gde {
               padding-top: 60px;
+  padding-bottom: 60px;
+
+        }
+    
+            }@media screen and (max-width: 767px) {
+                .symbol--jweu7gde {
+              padding-top: 0px;
   padding-bottom: 60px;
 
         }
@@ -4351,7 +4296,13 @@ height:28px;width:28px;min-width:28px;
   text-align: center; 
 
         }
+    @media screen and (max-width: 767px) {
+                .dorik-heading-6k0rzri3 {
+              font-size: 40px; 
+
+        }
     
+            }
 
       .dorik-heading-6k0rzri3 {
         
@@ -7098,6 +7049,13 @@ background-color: #000000;
 
         }
     
+            }@media screen and (max-width: 767px) {
+                .symbol--cdozth7e {
+              padding-top: 0px;
+  padding-bottom: 60px;
+
+        }
+    
             }
  
 
@@ -7298,74 +7256,6 @@ height:32px;width:32px;
 
 
 
-/*Column*/
-.dorik-column-54716uad {
-              padding-top: 15px;
-  padding-bottom: 15px;
-
-        }
-    .dorik-column-54716uad {
-        
-    }.dorik-column-54716uad.linked-column{cursor: pointer}
-
-
-
-
-/*Contact Form*/
-
-        .dorik-contactForm-kbf93mrq .form-button {
-              text-align: center; 
-
-        }
-
-        .dorik-contactForm-kbf93mrq .form-control {
-            width: 100%;
-            color: #171A21;
-  font-size: 14px; 
-  min-height: 50px; 
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border: 2px solid var(--color-7); 
-  border-radius: 0px 0px 0px 0px; 
-background-color: #FFFFFF;
-
-            margin-bottom: 15px;
-        }
-
-        .dorik-contactForm-kbf93mrq label {
-            display: inline-block;
-            color: var(--color-5);
-  font-size: 16px; 
-  padding-bottom: 10px;
-
-        }
-
-        
-            .dorik-contactForm-kbf93mrq button {
-                color: #FFFFFF;
-  height: 50px; 
-  font-size: 18px; 
-  padding-left: 30px;
-  padding-right: 30px;
-  border: 0px solid ; 
-  border-radius: 0px 0px 0px 0px; 
-background-color: var(--color-7);
-  width: 100%; 
-
-            }
-            .dorik-contactForm-kbf93mrq button:hover {
-                background-color: var(--color-6);
-
-            }
-            
-        
-    
-
-
-
-
 /*Pied page wesmaguhl*/
 .symbol--jweu7gde {
               padding-top: 60px;
@@ -7376,6 +7266,13 @@ background-color: #000000;
     @media screen and (max-width: 1023px) {
                 .symbol--jweu7gde {
               padding-top: 60px;
+  padding-bottom: 60px;
+
+        }
+    
+            }@media screen and (max-width: 767px) {
+                .symbol--jweu7gde {
+              padding-top: 0px;
   padding-bottom: 60px;
 
         }

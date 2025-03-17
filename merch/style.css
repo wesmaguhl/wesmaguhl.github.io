@@ -3035,6 +3035,13 @@ background-color: #000000;
 
         }
     
+            }@media screen and (max-width: 767px) {
+                .symbol--cdozth7e {
+              padding-top: 0px;
+  padding-bottom: 60px;
+
+        }
+    
             }
  
 
@@ -3238,75 +3245,6 @@ height:32px;width:32px;
 
 
 
-/*Column*/
-.dorik-column-54716uad {
-              padding-top: 15px;
-  padding-bottom: 15px;
-
-        }
-    .dorik-column-54716uad {
-        
-    }.dorik-column-54716uad.linked-column{cursor: pointer}
-
-
-
-
-/*Contact Form*/
-
-        .dorik-contactForm-kbf93mrq .form-button {
-              text-align: center; 
-
-        }
-
-        .dorik-contactForm-kbf93mrq .form-control {
-            width: 100%;
-            color: #171A21;
-  font-size: 14px; 
-  min-height: 50px; 
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border: 2px solid var(--color-7); 
-  border-radius: 0px 0px 0px 0px; 
-background-color: #FFFFFF;
-
-            margin-bottom: 15px;
-        }
-
-        .dorik-contactForm-kbf93mrq label {
-            display: inline-block;
-            color: var(--color-5);
-  font-size: 16px; 
-  padding-bottom: 10px;
-
-        }
-
-        
-            .dorik-contactForm-kbf93mrq button {
-                color: #FFFFFF;
-  height: 50px; 
-  font-size: 18px; 
-  padding-left: 30px;
-  padding-right: 30px;
-  border: 0px solid ; 
-  border-radius: 0px 0px 0px 0px; 
-background-color: var(--color-7);
-  width: 100%; 
-
-            }
-            .dorik-contactForm-kbf93mrq button:hover {
-                background-color: var(--color-6);
-
-            }
-            
-        
-    
-
-
-
-
-
 /*Pied page wesmaguhl*/
 .symbol--jweu7gde {
               padding-top: 60px;
@@ -3317,6 +3255,13 @@ background-color: #000000;
     @media screen and (max-width: 1023px) {
                 .symbol--jweu7gde {
               padding-top: 60px;
+  padding-bottom: 60px;
+
+        }
+    
+            }@media screen and (max-width: 767px) {
+                .symbol--jweu7gde {
+              padding-top: 0px;
   padding-bottom: 60px;
 
         }
@@ -4351,7 +4296,13 @@ height:28px;width:28px;min-width:28px;
   text-align: center; 
 
         }
+    @media screen and (max-width: 767px) {
+                .dorik-heading-6k0rzri3 {
+              font-size: 40px; 
+
+        }
     
+            }
 
       .dorik-heading-6k0rzri3 {
         
@@ -4481,7 +4432,16 @@ height:28px;width:28px;min-width:28px;
   gap: 30px; 
 
         }
+    @media screen and (max-width: 767px) {
+                .dorik-container-otfszfqv {
+              padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+
+        }
     
+            }
             
             
             
@@ -4502,7 +4462,15 @@ height:28px;width:28px;min-width:28px;
 
             }
             
-            
+            @media all and (max-width: 767px) {
+                    .dorik-container-otfszfqv {
+                          padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+
+                    }
+                }
         
 
             
@@ -4521,6 +4489,28 @@ height:28px;width:28px;min-width:28px;
                 }
 @media all and (max-width: 767px) {
                     .dorik-container-25761bnx.dorik-container-25761bnx {
+                          width: calc(100% - 0px); 
+  flex-basis: auto; 
+
+                    }
+                }
+        
+
+            .dorik-container-cwaxrv4w.dorik-container-cwaxrv4w {
+                  width: calc(30% - 20px); 
+  flex-basis: auto; 
+
+            }
+            
+            @media all and (max-width: 1023px) {
+                    .dorik-container-cwaxrv4w.dorik-container-cwaxrv4w {
+                          width: calc(30% - 20px); 
+  flex-basis: auto; 
+
+                    }
+                }
+@media all and (max-width: 767px) {
+                    .dorik-container-cwaxrv4w.dorik-container-cwaxrv4w {
                           width: calc(100% - 0px); 
   flex-basis: auto; 
 
@@ -4550,15 +4540,37 @@ height:28px;width:28px;min-width:28px;
                 }
         
 
+            .dorik-container-68r4u75u.dorik-container-68r4u75u {
+                  width: calc(30% - 15px); 
+  flex-basis: auto; 
+
+            }
+            
+            @media all and (max-width: 1023px) {
+                    .dorik-container-68r4u75u.dorik-container-68r4u75u {
+                          width: calc(30% - 15px); 
+  flex-basis: auto; 
+
+                    }
+                }
+@media all and (max-width: 767px) {
+                    .dorik-container-68r4u75u.dorik-container-68r4u75u {
+                          width: calc(100% - 0px); 
+  flex-basis: auto; 
+
+                    }
+                }
+        
+
             .dorik-container-qm45jxkc.dorik-container-qm45jxkc {
-                  width: calc(33.33% - 20px); 
+                  width: calc(33.33% - 15px); 
   flex-basis: auto; 
 
             }
             
             @media all and (max-width: 1023px) {
                     .dorik-container-qm45jxkc.dorik-container-qm45jxkc {
-                          width: calc(33.33% - 20px); 
+                          width: calc(33.33% - 15px); 
   flex-basis: auto; 
 
                     }
@@ -4668,14 +4680,30 @@ height:28px;width:28px;min-width:28px;
               object-fit: cover; 
 
         }
-    
+    @media screen and (max-width: 767px) {
+                .dorik-image-75jr3a5t {
+              height: 300px; 
+  margin-bottom: -50px;
+
+        }
+    .dorik-image-75jr3a5t-wrapper {
+  text-align: center; 
+
+}
+
+            }
 
 
 
 
             
             
-            
+            @media all and (max-width: 767px) {
+                    :where([class*="dorik-image-75jr3a5t-wrapper"]:not([class*="dorik-image-75jr3a5t-wrapper"] *)) {
+                          margin-bottom: -50px;
+
+                    }
+                }
         
 
             .dorik-image-75jr3a5t.dorik-image-75jr3a5t.dorik-image-75jr3a5t {
@@ -4691,7 +4719,154 @@ height:28px;width:28px;min-width:28px;
                 }
 @media all and (max-width: 767px) {
                     .dorik-image-75jr3a5t.dorik-image-75jr3a5t.dorik-image-75jr3a5t {
-                        
+                          margin-bottom: 0px;
+
+                    }
+                }
+        
+/*Container*/
+.dorik-container-cwaxrv4w {
+              display: flex; 
+  flex-direction: column; 
+  flex-wrap: wrap; 
+  padding-top: 0px;
+  padding-bottom: 10px;
+  flex-basis: 30%; 
+  align-items: stretch; 
+
+        }
+    @media screen and (max-width: 767px) {
+                .dorik-container-cwaxrv4w {
+              align-items: center; 
+  flex-basis: 100%; 
+
+        }
+    
+            }
+            
+            
+            
+            
+        
+            
+            .dorik-container-cwaxrv4w {
+                  display: flex; 
+  flex-direction: column; 
+  flex-wrap: wrap; 
+  padding-top: 0px;
+  padding-bottom: 10px;
+  flex-basis: 30%; 
+  align-items: stretch; 
+
+            }
+            
+            @media all and (max-width: 767px) {
+                    .dorik-container-cwaxrv4w {
+                          align-items: center; 
+  flex-basis: 100%; 
+
+                    }
+                }
+        
+
+            
+            
+        
+
+:where(.dorik-container-cwaxrv4w) {
+        position: relative;
+    }
+:where(.dorik-button-47z407id) {
+            position: relative;
+        }
+
+/*Button*/
+.dorik-button-47z407id {
+              padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+text-decoration: none;
+  justify-content: center; 
+  border-radius: 0px 0px 0px 0px; 
+  border-width: 0px;
+
+
+background-color: var(--color-7);
+  font-size: 18px; 
+color: #ffffff;
+  line-height: 18px; 
+  letter-spacing: 0px; 
+  font-family: 'Work Sans',sans-serif; 
+  margin-top: 16px;
+  width: 100%; 
+  text-transform: none; 
+
+        }
+    .dorik-button-47z407id:hover {
+                color: #FFFFFF;
+background-color: var(--color-6);
+
+            }.dorik-button-47z407id-wrapper {
+  text-align: center; 
+
+}
+@media screen and (max-width: 767px) {
+                .dorik-button-47z407id {
+              margin-top: 16px;
+  margin-left: 0px;
+  font-size: 15px; 
+  line-height: 10px; 
+
+        }
+    
+            }.dorik-button-47z407id :is(.icon, .icon svg) {
+        
+        transition: null
+        
+    }
+    .dorik-button-47z407id:hover :is(.icon, .icon svg) {
+        color: null;
+    }
+
+
+
+
+            :where([class*="dorik-button-47z407id-wrapper"]:not([class*="dorik-button-47z407id-wrapper"] *)) {
+                  margin-top: 16px;
+
+            }
+            
+            @media all and (max-width: 1023px) {
+                    :where([class*="dorik-button-47z407id-wrapper"]:not([class*="dorik-button-47z407id-wrapper"] *)) {
+                          margin-top: 16px;
+
+                    }
+                }
+@media all and (max-width: 767px) {
+                    :where([class*="dorik-button-47z407id-wrapper"]:not([class*="dorik-button-47z407id-wrapper"] *)) {
+                          margin-top: 16px;
+  margin-left: 0px;
+
+                    }
+                }
+        
+
+            .dorik-button-47z407id.dorik-button-47z407id.dorik-button-47z407id {
+                  margin-top: 0px;
+
+            }
+            
+            @media all and (max-width: 1023px) {
+                    .dorik-button-47z407id.dorik-button-47z407id.dorik-button-47z407id {
+                          margin-top: 0px;
+
+                    }
+                }
+@media all and (max-width: 767px) {
+                    .dorik-button-47z407id.dorik-button-47z407id.dorik-button-47z407id {
+                          margin-top: 0px;
+  margin-left: 0px;
 
                     }
                 }
@@ -4755,14 +4930,30 @@ height:28px;width:28px;min-width:28px;
               object-fit: cover; 
 
         }
-    
+    @media screen and (max-width: 767px) {
+                .dorik-image-vxjhlwnd {
+              height: 300px; 
+  margin-bottom: -50px;
+
+        }
+    .dorik-image-vxjhlwnd-wrapper {
+  text-align: center; 
+
+}
+
+            }
 
 
 
 
             
             
-            
+            @media all and (max-width: 767px) {
+                    :where([class*="dorik-image-vxjhlwnd-wrapper"]:not([class*="dorik-image-vxjhlwnd-wrapper"] *)) {
+                          margin-bottom: -50px;
+
+                    }
+                }
         
 
             .dorik-image-vxjhlwnd.dorik-image-vxjhlwnd.dorik-image-vxjhlwnd {
@@ -4778,7 +4969,154 @@ height:28px;width:28px;min-width:28px;
                 }
 @media all and (max-width: 767px) {
                     .dorik-image-vxjhlwnd.dorik-image-vxjhlwnd.dorik-image-vxjhlwnd {
-                        
+                          margin-bottom: 0px;
+
+                    }
+                }
+        
+/*Container*/
+.dorik-container-68r4u75u {
+              display: flex; 
+  flex-direction: column; 
+  flex-wrap: wrap; 
+  padding-top: 0px;
+  padding-bottom: 10px;
+  flex-basis: 30%; 
+  align-items: stretch; 
+
+        }
+    @media screen and (max-width: 767px) {
+                .dorik-container-68r4u75u {
+              align-items: center; 
+  flex-basis: 100%; 
+
+        }
+    
+            }
+            
+            
+            
+            
+        
+            
+            .dorik-container-68r4u75u {
+                  display: flex; 
+  flex-direction: column; 
+  flex-wrap: wrap; 
+  padding-top: 0px;
+  padding-bottom: 10px;
+  flex-basis: 30%; 
+  align-items: stretch; 
+
+            }
+            
+            @media all and (max-width: 767px) {
+                    .dorik-container-68r4u75u {
+                          align-items: center; 
+  flex-basis: 100%; 
+
+                    }
+                }
+        
+
+            
+            
+        
+
+:where(.dorik-container-68r4u75u) {
+        position: relative;
+    }
+:where(.dorik-button-o4ap6sl4) {
+            position: relative;
+        }
+
+/*Button*/
+.dorik-button-o4ap6sl4 {
+              padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+text-decoration: none;
+  justify-content: center; 
+  border-radius: 0px 0px 0px 0px; 
+  border-width: 0px;
+
+
+background-color: var(--color-7);
+  font-size: 18px; 
+color: #ffffff;
+  line-height: 18px; 
+  letter-spacing: 0px; 
+  font-family: 'Work Sans',sans-serif; 
+  margin-top: 16px;
+  width: 100%; 
+  text-transform: none; 
+
+        }
+    .dorik-button-o4ap6sl4:hover {
+                color: #FFFFFF;
+background-color: var(--color-6);
+
+            }.dorik-button-o4ap6sl4-wrapper {
+  text-align: center; 
+
+}
+@media screen and (max-width: 767px) {
+                .dorik-button-o4ap6sl4 {
+              margin-top: 16px;
+  margin-left: 0px;
+  font-size: 15px; 
+  line-height: 10px; 
+
+        }
+    
+            }.dorik-button-o4ap6sl4 :is(.icon, .icon svg) {
+        
+        transition: null
+        
+    }
+    .dorik-button-o4ap6sl4:hover :is(.icon, .icon svg) {
+        color: null;
+    }
+
+
+
+
+            :where([class*="dorik-button-o4ap6sl4-wrapper"]:not([class*="dorik-button-o4ap6sl4-wrapper"] *)) {
+                  margin-top: 16px;
+
+            }
+            
+            @media all and (max-width: 1023px) {
+                    :where([class*="dorik-button-o4ap6sl4-wrapper"]:not([class*="dorik-button-o4ap6sl4-wrapper"] *)) {
+                          margin-top: 16px;
+
+                    }
+                }
+@media all and (max-width: 767px) {
+                    :where([class*="dorik-button-o4ap6sl4-wrapper"]:not([class*="dorik-button-o4ap6sl4-wrapper"] *)) {
+                          margin-top: 16px;
+  margin-left: 0px;
+
+                    }
+                }
+        
+
+            .dorik-button-o4ap6sl4.dorik-button-o4ap6sl4.dorik-button-o4ap6sl4 {
+                  margin-top: 0px;
+
+            }
+            
+            @media all and (max-width: 1023px) {
+                    .dorik-button-o4ap6sl4.dorik-button-o4ap6sl4.dorik-button-o4ap6sl4 {
+                          margin-top: 0px;
+
+                    }
+                }
+@media all and (max-width: 767px) {
+                    .dorik-button-o4ap6sl4.dorik-button-o4ap6sl4.dorik-button-o4ap6sl4 {
+                          margin-top: 0px;
+  margin-left: 0px;
 
                     }
                 }
@@ -4842,14 +5180,33 @@ height:28px;width:28px;min-width:28px;
               object-fit: cover; 
 
         }
-    
+    @media screen and (max-width: 767px) {
+                .dorik-image-zn7h6odu {
+              height: 300px; 
+  padding-bottom: 0px;
+  margin-bottom: -50px;
+  margin-top: -24px;
+
+        }
+    .dorik-image-zn7h6odu-wrapper {
+  text-align: center; 
+
+}
+
+            }
 
 
 
 
             
             
-            
+            @media all and (max-width: 767px) {
+                    :where([class*="dorik-image-zn7h6odu-wrapper"]:not([class*="dorik-image-zn7h6odu-wrapper"] *)) {
+                          margin-bottom: -50px;
+  margin-top: -24px;
+
+                    }
+                }
         
 
             .dorik-image-zn7h6odu.dorik-image-zn7h6odu.dorik-image-zn7h6odu {
@@ -4865,13 +5222,14 @@ height:28px;width:28px;min-width:28px;
                 }
 @media all and (max-width: 767px) {
                     .dorik-image-zn7h6odu.dorik-image-zn7h6odu.dorik-image-zn7h6odu {
-                        
+                          margin-bottom: 0px;
+  margin-top: 0px;
 
                     }
                 }
         
 /*Container*/
-.dorik-container-0943cezh {
+.dorik-container-6obm5fbt {
               display: flex; 
   flex-direction: row; 
   flex-wrap: wrap; 
@@ -4892,7 +5250,7 @@ height:28px;width:28px;min-width:28px;
             
         
             
-            .dorik-container-0943cezh {
+            .dorik-container-6obm5fbt {
                   display: flex; 
   flex-direction: row; 
   flex-wrap: wrap; 
@@ -4911,32 +5269,32 @@ height:28px;width:28px;min-width:28px;
         
 
             
-            .dorik-container-cwaxrv4w.dorik-container-cwaxrv4w {
+            .dorik-container-79bdm5fv.dorik-container-79bdm5fv {
                   width: calc(30% - 0px); 
   flex-basis: auto; 
 
             }
             
             @media all and (max-width: 1023px) {
-                    .dorik-container-cwaxrv4w.dorik-container-cwaxrv4w {
+                    .dorik-container-79bdm5fv.dorik-container-79bdm5fv {
                           width: calc(30% - 0px); 
   flex-basis: auto; 
 
                     }
                 }
 @media all and (max-width: 767px) {
-                    .dorik-container-cwaxrv4w.dorik-container-cwaxrv4w {
-                          width: calc(30% - 0px); 
+                    .dorik-container-79bdm5fv.dorik-container-79bdm5fv {
+                          width: calc(100% - 0px); 
   flex-basis: auto; 
 
                     }
                 }
         
-            .dorik-container-0943cezh.dorik-container-0943cezh {
+            .dorik-container-6obm5fbt.dorik-container-6obm5fbt {
         --nav-padding: 15px;
     }
 
-            .dorik-container-0943cezh.dorik-container-0943cezh {
+            .dorik-container-6obm5fbt.dorik-container-6obm5fbt {
                   margin-left: calc((100% - var(--max-width, 100%)) / 2 + 0px); 
   margin-right: calc((100% - var(--max-width, 100%)) / 2 + 0px); 
   width: calc(var(--max-width, 100%) - 0px - 0px); 
@@ -4944,7 +5302,7 @@ height:28px;width:28px;min-width:28px;
             }
             
             @media all and (max-width: 1023px) {
-                    .dorik-container-0943cezh.dorik-container-0943cezh {
+                    .dorik-container-6obm5fbt.dorik-container-6obm5fbt {
                           margin-left: calc((100% - var(--max-width, 100%)) / 2 + 0px); 
   margin-right: calc((100% - var(--max-width, 100%)) / 2 + 0px); 
   width: calc(var(--max-width, 100%) - 0px - 0px); 
@@ -4952,26 +5310,26 @@ height:28px;width:28px;min-width:28px;
                     }
                 }
 @media all and (max-width: 767px) {
-                    .dorik-container-0943cezh.dorik-container-0943cezh {
+                    .dorik-container-6obm5fbt.dorik-container-6obm5fbt {
                           margin-left: calc((100% - var(--max-width, 100%)) / 2 + 0px); 
   margin-right: calc((100% - var(--max-width, 100%)) / 2 + 0px); 
   width: calc(var(--max-width, 100%) - 0px - 0px); 
 
                     }
                 }
-        :where(.dorik-container-0943cezh) {
+        :where(.dorik-container-6obm5fbt) {
         margin:0 auto;
         
       }
         
 
-:where(.dorik-container-0943cezh) {
+:where(.dorik-container-6obm5fbt) {
         position: relative;
     }
 
 
 /*Container*/
-.dorik-container-cwaxrv4w {
+.dorik-container-79bdm5fv {
               display: flex; 
   flex-direction: column; 
   flex-wrap: wrap; 
@@ -4981,14 +5339,21 @@ height:28px;width:28px;min-width:28px;
   align-items: stretch; 
 
         }
+    @media screen and (max-width: 767px) {
+                .dorik-container-79bdm5fv {
+              align-items: center; 
+  flex-basis: 100%; 
+
+        }
     
+            }
             
             
             
             
         
             
-            .dorik-container-cwaxrv4w {
+            .dorik-container-79bdm5fv {
                   display: flex; 
   flex-direction: column; 
   flex-wrap: wrap; 
@@ -4999,22 +5364,28 @@ height:28px;width:28px;min-width:28px;
 
             }
             
-            
+            @media all and (max-width: 767px) {
+                    .dorik-container-79bdm5fv {
+                          align-items: center; 
+  flex-basis: 100%; 
+
+                    }
+                }
         
 
             
             
         
 
-:where(.dorik-container-cwaxrv4w) {
+:where(.dorik-container-79bdm5fv) {
         position: relative;
     }
-:where(.dorik-button-47z407id) {
+:where(.dorik-button-ke16v6wk) {
             position: relative;
         }
 
 /*Button*/
-.dorik-button-47z407id {
+.dorik-button-ke16v6wk {
               padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 20px;
@@ -5036,59 +5407,70 @@ color: #ffffff;
   text-transform: none; 
 
         }
-    .dorik-button-47z407id:hover {
+    .dorik-button-ke16v6wk:hover {
                 color: #FFFFFF;
 background-color: var(--color-6);
 
-            }.dorik-button-47z407id-wrapper {
+            }.dorik-button-ke16v6wk-wrapper {
   text-align: center; 
 
 }
-.dorik-button-47z407id :is(.icon, .icon svg) {
+@media screen and (max-width: 767px) {
+                .dorik-button-ke16v6wk {
+              margin-top: 16px;
+  margin-left: 0px;
+  font-size: 15px; 
+  line-height: 10px; 
+
+        }
+    
+            }.dorik-button-ke16v6wk :is(.icon, .icon svg) {
         
         transition: null
         
     }
-    .dorik-button-47z407id:hover :is(.icon, .icon svg) {
+    .dorik-button-ke16v6wk:hover :is(.icon, .icon svg) {
         color: null;
     }
 
 
 
 
-            :where([class*="dorik-button-47z407id-wrapper"]:not([class*="dorik-button-47z407id-wrapper"] *)) {
+            :where([class*="dorik-button-ke16v6wk-wrapper"]:not([class*="dorik-button-ke16v6wk-wrapper"] *)) {
                   margin-top: 16px;
 
             }
             
             @media all and (max-width: 1023px) {
-                    :where([class*="dorik-button-47z407id-wrapper"]:not([class*="dorik-button-47z407id-wrapper"] *)) {
+                    :where([class*="dorik-button-ke16v6wk-wrapper"]:not([class*="dorik-button-ke16v6wk-wrapper"] *)) {
                           margin-top: 16px;
 
                     }
                 }
 @media all and (max-width: 767px) {
-                    :where([class*="dorik-button-47z407id-wrapper"]:not([class*="dorik-button-47z407id-wrapper"] *)) {
+                    :where([class*="dorik-button-ke16v6wk-wrapper"]:not([class*="dorik-button-ke16v6wk-wrapper"] *)) {
                           margin-top: 16px;
+  margin-left: 0px;
 
                     }
                 }
         
 
-            .dorik-button-47z407id.dorik-button-47z407id.dorik-button-47z407id {
+            .dorik-button-ke16v6wk.dorik-button-ke16v6wk.dorik-button-ke16v6wk {
                   margin-top: 0px;
 
             }
             
             @media all and (max-width: 1023px) {
-                    .dorik-button-47z407id.dorik-button-47z407id.dorik-button-47z407id {
+                    .dorik-button-ke16v6wk.dorik-button-ke16v6wk.dorik-button-ke16v6wk {
                           margin-top: 0px;
 
                     }
                 }
 @media all and (max-width: 767px) {
-                    .dorik-button-47z407id.dorik-button-47z407id.dorik-button-47z407id {
+                    .dorik-button-ke16v6wk.dorik-button-ke16v6wk.dorik-button-ke16v6wk {
                           margin-top: 0px;
+  margin-left: 0px;
 
                     }
                 }
@@ -5137,7 +5519,16 @@ background-color: var(--color-6);
   gap: 30px; 
 
         }
+    @media screen and (max-width: 767px) {
+                .dorik-container-lsdhhj7i {
+              padding-top: 64px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+
+        }
     
+            }
             
             
             
@@ -5158,7 +5549,15 @@ background-color: var(--color-6);
 
             }
             
-            
+            @media all and (max-width: 767px) {
+                    .dorik-container-lsdhhj7i {
+                          padding-top: 64px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+
+                    }
+                }
         
 
             
@@ -5324,6 +5723,13 @@ background-color: #000000;
     @media screen and (max-width: 1023px) {
                 .symbol--cdozth7e {
               padding-top: 60px;
+  padding-bottom: 60px;
+
+        }
+    
+            }@media screen and (max-width: 767px) {
+                .symbol--cdozth7e {
+              padding-top: 0px;
   padding-bottom: 60px;
 
         }
@@ -5528,74 +5934,6 @@ height:32px;width:32px;
 
 
 
-/*Column*/
-.dorik-column-54716uad {
-              padding-top: 15px;
-  padding-bottom: 15px;
-
-        }
-    .dorik-column-54716uad {
-        
-    }.dorik-column-54716uad.linked-column{cursor: pointer}
-
-
-
-
-/*Contact Form*/
-
-        .dorik-contactForm-kbf93mrq .form-button {
-              text-align: center; 
-
-        }
-
-        .dorik-contactForm-kbf93mrq .form-control {
-            width: 100%;
-            color: #171A21;
-  font-size: 14px; 
-  min-height: 50px; 
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border: 2px solid var(--color-7); 
-  border-radius: 0px 0px 0px 0px; 
-background-color: #FFFFFF;
-
-            margin-bottom: 15px;
-        }
-
-        .dorik-contactForm-kbf93mrq label {
-            display: inline-block;
-            color: var(--color-5);
-  font-size: 16px; 
-  padding-bottom: 10px;
-
-        }
-
-        
-            .dorik-contactForm-kbf93mrq button {
-                color: #FFFFFF;
-  height: 50px; 
-  font-size: 18px; 
-  padding-left: 30px;
-  padding-right: 30px;
-  border: 0px solid ; 
-  border-radius: 0px 0px 0px 0px; 
-background-color: var(--color-7);
-  width: 100%; 
-
-            }
-            .dorik-contactForm-kbf93mrq button:hover {
-                background-color: var(--color-6);
-
-            }
-            
-        
-    
-
-
-
-
 /*Pied page wesmaguhl*/
 .symbol--jweu7gde {
               padding-top: 60px;
@@ -5606,6 +5944,13 @@ background-color: #000000;
     @media screen and (max-width: 1023px) {
                 .symbol--jweu7gde {
               padding-top: 60px;
+  padding-bottom: 60px;
+
+        }
+    
+            }@media screen and (max-width: 767px) {
+                .symbol--jweu7gde {
+              padding-top: 0px;
   padding-bottom: 60px;
 
         }

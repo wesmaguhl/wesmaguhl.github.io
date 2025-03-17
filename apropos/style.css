@@ -3035,6 +3035,13 @@ background-color: #000000;
 
         }
     
+            }@media screen and (max-width: 767px) {
+                .symbol--cdozth7e {
+              padding-top: 0px;
+  padding-bottom: 60px;
+
+        }
+    
             }
  
 
@@ -3238,75 +3245,6 @@ height:32px;width:32px;
 
 
 
-/*Column*/
-.dorik-column-54716uad {
-              padding-top: 15px;
-  padding-bottom: 15px;
-
-        }
-    .dorik-column-54716uad {
-        
-    }.dorik-column-54716uad.linked-column{cursor: pointer}
-
-
-
-
-/*Contact Form*/
-
-        .dorik-contactForm-kbf93mrq .form-button {
-              text-align: center; 
-
-        }
-
-        .dorik-contactForm-kbf93mrq .form-control {
-            width: 100%;
-            color: #171A21;
-  font-size: 14px; 
-  min-height: 50px; 
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border: 2px solid var(--color-7); 
-  border-radius: 0px 0px 0px 0px; 
-background-color: #FFFFFF;
-
-            margin-bottom: 15px;
-        }
-
-        .dorik-contactForm-kbf93mrq label {
-            display: inline-block;
-            color: var(--color-5);
-  font-size: 16px; 
-  padding-bottom: 10px;
-
-        }
-
-        
-            .dorik-contactForm-kbf93mrq button {
-                color: #FFFFFF;
-  height: 50px; 
-  font-size: 18px; 
-  padding-left: 30px;
-  padding-right: 30px;
-  border: 0px solid ; 
-  border-radius: 0px 0px 0px 0px; 
-background-color: var(--color-7);
-  width: 100%; 
-
-            }
-            .dorik-contactForm-kbf93mrq button:hover {
-                background-color: var(--color-6);
-
-            }
-            
-        
-    
-
-
-
-
-
 /*Pied page wesmaguhl*/
 .symbol--jweu7gde {
               padding-top: 60px;
@@ -3317,6 +3255,13 @@ background-color: #000000;
     @media screen and (max-width: 1023px) {
                 .symbol--jweu7gde {
               padding-top: 60px;
+  padding-bottom: 60px;
+
+        }
+    
+            }@media screen and (max-width: 767px) {
+                .symbol--jweu7gde {
+              padding-top: 0px;
   padding-bottom: 60px;
 
         }
@@ -4351,7 +4296,13 @@ height:28px;width:28px;min-width:28px;
   text-align: center; 
 
         }
+    @media screen and (max-width: 767px) {
+                .dorik-heading-6k0rzri3 {
+              font-size: 40px; 
+
+        }
     
+            }
 
       .dorik-heading-6k0rzri3 {
         
@@ -4613,7 +4564,16 @@ height:28px;width:28px;min-width:28px;
   font-family: 'Work Sans',sans-serif; 
 
         }
+    @media screen and (max-width: 767px) {
+                .dorik-heading-973iq385 {
+              font-size: 30px; 
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 0px;
+
+        }
     
+            }
 
       .dorik-heading-973iq385 {
         
@@ -4658,6 +4618,7 @@ height:28px;width:28px;min-width:28px;
                     :where([class*="dorik-heading-973iq385-wrapper"]:not([class*="dorik-heading-973iq385-wrapper"] *)) {
                           margin-top: 8px;
   margin-bottom: 8px;
+  margin-left: 0px;
 
                     }
                 }
@@ -4680,6 +4641,7 @@ height:28px;width:28px;min-width:28px;
                     .dorik-heading-973iq385.dorik-heading-973iq385.dorik-heading-973iq385 {
                           margin-top: 0px;
   margin-bottom: 0px;
+  margin-left: 0px;
 
                     }
                 }
@@ -4965,7 +4927,16 @@ color: var(--color-3);
   padding-bottom: 0px;
 
         }
+    @media screen and (max-width: 767px) {
+                .dorik-heading-qvp7eouu {
+              font-size: 30px; 
+  margin-top: 8px;
+  margin-bottom: -23px;
+  margin-left: 0px;
+
+        }
     
+            }
 
       .dorik-heading-qvp7eouu {
         
@@ -5010,6 +4981,7 @@ color: var(--color-3);
                     :where([class*="dorik-heading-qvp7eouu-wrapper"]:not([class*="dorik-heading-qvp7eouu-wrapper"] *)) {
                           margin-top: 8px;
   margin-bottom: -23px;
+  margin-left: 0px;
 
                     }
                 }
@@ -5032,6 +5004,7 @@ color: var(--color-3);
                     .dorik-heading-qvp7eouu.dorik-heading-qvp7eouu.dorik-heading-qvp7eouu {
                           margin-top: 0px;
   margin-bottom: 0px;
+  margin-left: 0px;
 
                     }
                 }
@@ -5101,7 +5074,17 @@ color: var(--color-3);
               object-fit: cover; 
 
         }
-    
+    @media screen and (max-width: 767px) {
+                .dorik-image-frkqegdc {
+              height: 300px; 
+
+        }
+    .dorik-image-frkqegdc-wrapper {
+  text-align: center; 
+
+}
+
+            }
 
 
 
@@ -5232,7 +5215,17 @@ color: var(--color-3);
               object-fit: cover; 
 
         }
-    
+    @media screen and (max-width: 767px) {
+                .dorik-image-etaq3qak {
+              height: 300px; 
+
+        }
+    .dorik-image-etaq3qak-wrapper {
+  text-align: center; 
+
+}
+
+            }
 
 
 
@@ -5363,7 +5356,17 @@ color: var(--color-3);
               object-fit: cover; 
 
         }
-    
+    @media screen and (max-width: 767px) {
+                .dorik-image-ks4el441 {
+              height: 300px; 
+
+        }
+    .dorik-image-ks4el441-wrapper {
+  text-align: center; 
+
+}
+
+            }
 
 
 
@@ -5636,7 +5639,17 @@ color: var(--color-3);
               object-fit: cover; 
 
         }
-    
+    @media screen and (max-width: 767px) {
+                .dorik-image-5o0sck84 {
+              height: 300px; 
+
+        }
+    .dorik-image-5o0sck84-wrapper {
+  text-align: center; 
+
+}
+
+            }
 
 
 
@@ -5767,7 +5780,17 @@ color: var(--color-3);
               object-fit: cover; 
 
         }
-    
+    @media screen and (max-width: 767px) {
+                .dorik-image-q39tx4ja {
+              height: 300px; 
+
+        }
+    .dorik-image-q39tx4ja-wrapper {
+  text-align: center; 
+
+}
+
+            }
 
 
 
@@ -5898,7 +5921,17 @@ color: var(--color-3);
               object-fit: cover; 
 
         }
-    
+    @media screen and (max-width: 767px) {
+                .dorik-image-pvthxyhe {
+              height: 300px; 
+
+        }
+    .dorik-image-pvthxyhe-wrapper {
+  text-align: center; 
+
+}
+
+            }
 
 
 
@@ -6047,7 +6080,16 @@ color: var(--color-3);
   padding-bottom: 0px;
 
         }
+    @media screen and (max-width: 767px) {
+                .dorik-heading-v4emerni {
+              font-size: 30px; 
+  margin-top: 26px;
+  margin-bottom: 9px;
+  margin-left: 7px;
+
+        }
     
+            }
 
       .dorik-heading-v4emerni {
         
@@ -6092,6 +6134,7 @@ color: var(--color-3);
                     :where([class*="dorik-heading-v4emerni-wrapper"]:not([class*="dorik-heading-v4emerni-wrapper"] *)) {
                           margin-top: 26px;
   margin-bottom: 9px;
+  margin-left: 7px;
 
                     }
                 }
@@ -6114,6 +6157,7 @@ color: var(--color-3);
                     .dorik-heading-v4emerni.dorik-heading-v4emerni.dorik-heading-v4emerni {
                           margin-top: 0px;
   margin-bottom: 0px;
+  margin-left: 0px;
 
                     }
                 }
@@ -6325,7 +6369,17 @@ color: var(--color-3);
   gap: 30px; 
 
         }
+    @media screen and (max-width: 767px) {
+                .dorik-container-3ifluap6 {
+              padding-top: 23px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  margin-top: -86px;
+
+        }
     
+            }
             
             
             
@@ -6346,7 +6400,16 @@ color: var(--color-3);
 
             }
             
-            
+            @media all and (max-width: 767px) {
+                    .dorik-container-3ifluap6 {
+                          padding-top: 23px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  margin-top: -86px;
+
+                    }
+                }
         
 
             
@@ -6512,6 +6575,13 @@ background-color: #000000;
     @media screen and (max-width: 1023px) {
                 .symbol--cdozth7e {
               padding-top: 60px;
+  padding-bottom: 60px;
+
+        }
+    
+            }@media screen and (max-width: 767px) {
+                .symbol--cdozth7e {
+              padding-top: 0px;
   padding-bottom: 60px;
 
         }
@@ -6716,74 +6786,6 @@ height:32px;width:32px;
 
 
 
-/*Column*/
-.dorik-column-54716uad {
-              padding-top: 15px;
-  padding-bottom: 15px;
-
-        }
-    .dorik-column-54716uad {
-        
-    }.dorik-column-54716uad.linked-column{cursor: pointer}
-
-
-
-
-/*Contact Form*/
-
-        .dorik-contactForm-kbf93mrq .form-button {
-              text-align: center; 
-
-        }
-
-        .dorik-contactForm-kbf93mrq .form-control {
-            width: 100%;
-            color: #171A21;
-  font-size: 14px; 
-  min-height: 50px; 
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border: 2px solid var(--color-7); 
-  border-radius: 0px 0px 0px 0px; 
-background-color: #FFFFFF;
-
-            margin-bottom: 15px;
-        }
-
-        .dorik-contactForm-kbf93mrq label {
-            display: inline-block;
-            color: var(--color-5);
-  font-size: 16px; 
-  padding-bottom: 10px;
-
-        }
-
-        
-            .dorik-contactForm-kbf93mrq button {
-                color: #FFFFFF;
-  height: 50px; 
-  font-size: 18px; 
-  padding-left: 30px;
-  padding-right: 30px;
-  border: 0px solid ; 
-  border-radius: 0px 0px 0px 0px; 
-background-color: var(--color-7);
-  width: 100%; 
-
-            }
-            .dorik-contactForm-kbf93mrq button:hover {
-                background-color: var(--color-6);
-
-            }
-            
-        
-    
-
-
-
-
 /*Pied page wesmaguhl*/
 .symbol--jweu7gde {
               padding-top: 60px;
@@ -6794,6 +6796,13 @@ background-color: #000000;
     @media screen and (max-width: 1023px) {
                 .symbol--jweu7gde {
               padding-top: 60px;
+  padding-bottom: 60px;
+
+        }
+    
+            }@media screen and (max-width: 767px) {
+                .symbol--jweu7gde {
+              padding-top: 0px;
   padding-bottom: 60px;
 
         }
