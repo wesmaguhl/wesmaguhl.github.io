@@ -3737,6 +3737,7 @@ height:28px;width:28px;min-width:28px;
 background-image: url(https://cdn.cmsfly.com/67bddb3dec56ad005697fa0c/images/page1sanstext-FqPX2.png);  background-position: center; 
   background-repeat: repeat; 
   background-blend-mode: multiply; 
+  background-attachment: fixed; 
 
         }
     .dorik-section-3xyyqd6s:before {
